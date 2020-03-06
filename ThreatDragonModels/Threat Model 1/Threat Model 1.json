@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Threat Model 1",
+    "owner": "colinkwi",
+    "description": "A basic static website hosted on S3 threat model."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Model A",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "N/A"
+  }
+}
